@@ -264,3 +264,6 @@ DJANGO_PROJECT
 locale/*
 manage.py
 examples/
+
+bin
+obj
